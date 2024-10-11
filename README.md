@@ -61,7 +61,7 @@ Before installing and running the Rentify application, make sure you have the fo
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/jaysheri/house-rental-management-application.git
+   https://github.com/Akilesh11/MongoDB_MERNstack.git
    ```
 
 2. Navigate to the project's root directory:
